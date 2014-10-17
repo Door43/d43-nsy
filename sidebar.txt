@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsy:home|Door43 (nsy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsy|d43-nsy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsy/archive/master.zip|d43-nsy.zip]]
+
+**Recent Changes**
+{{changes>ns = nsy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsy|Ethnologue data]]
+
